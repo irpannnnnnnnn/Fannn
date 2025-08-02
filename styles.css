@@ -4,6 +4,19 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+#Fann {
+  position: absolute;
+  top: 700px ;
+  color: cornsilk;
+  left: 250px;
+  font-size: 5rem;
+}
+
+#pauseBtn {
+  position: absolute;
+  left: 130px;   /* Geser ke kanan */
+}
+
 audio {
   width: 100%;
   border-radius: 10px;
